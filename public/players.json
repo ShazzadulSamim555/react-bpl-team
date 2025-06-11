@@ -1,0 +1,152 @@
+[
+  {
+    "players_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZa5XlihaGX-eQVC_n7aLKphiOwTHx6AD9ofstNp-Y0egvxQ9wqxa49F1i7spZAKOqozljX0s45KE27DN2jwJjeg",
+    "player_name": "Babar Azam",
+    "country": "Pakistan",
+    "position": 1,
+    "rating": 94,
+    "price": 9.0,
+    "type": "batter",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSSFq_QOD0I-aSXFOtqKCrv8Nqk2sbaQqal0Np80mh9Qgx8tFT0IefgXkvm4BVUsY4FKskFUnP3NEBBKG6yb90XdJyiid0eeJtWQEQ-QeIBSzGWqup-CPjxJWqozkS7yke324YlNXqXLuKv",
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "position": 2,
+    "rating": 95,
+    "price": 9.5,
+    "type": "all rounder",
+    "all_rounder": true
+  },
+  {
+    "players_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdqzWIhc7kNM1ZCcHgPe6QhySLSTPEqt8w1DdbNhdUcjgNGFCMt8x4VxPLjDXc7EK42zuDXH4DoqPn4Hasq1tdyrxKAMoXZ3KzBalf2srX",
+    "player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "position": 3,
+    "rating": 93,
+    "price": 8.9,
+    "type": "batter",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOE0GhRxkXZhu2rtHoHszvOqBBa8LyddRlFL6rEONYITxQHTowZxzXbukZKVoZD4DqcaMjEgqu9XxfrGe9s1yNC78s9b2N5rTVT3QJ3yIXHQ",
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "position": 4,
+    "rating": 92,
+    "price": 8.2,
+    "type": "all rounder",
+    "all_rounder": true
+  },
+  {
+    "players_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-68eaQRTVg_I9RQmzKvZp0fFURMaGLOXETvTwZMlopF_n9LDH61BvLiVVpReUgKpc3-LLSCDZdCK98iJOPbwmwq7iC75tjDm6CC5_1tf",
+    "player_name": "Liam O’Connor",
+    "country": "Australia",
+    "position": 5,
+    "rating": 90,
+    "price": 8.0,
+    "type": "all rounder",
+    "all_rounder": true
+  },
+  {
+    "players_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjOYDgJn1EA6M2_ycdOaUcXWAtYoBYMvJICBHNarr1IZ4qkbS4xsA8lO6MqNSu3Uf9UQCTe82MCBuHiKcEzYkbwb1y23_vgK5jezEr14SXQ",
+    "player_name": "Mitchell Starc",
+    "country": "Australia",
+    "position": 6,
+    "rating": 90,
+    "price": 7.7,
+    "type": "bowler",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAo6_Dc310SMtjBd9DHF4aX06ELRCEGfIG9aVGOKMASLdgJr1sX-vjGCKo-g_FENzI3HIeMwmkmycK2ORhuN8AWGAKPfG_nUEHmO5PUz2o",
+    "player_name": "Chris Jordan",
+    "country": "England",
+    "position": 7,
+    "rating": 80,
+    "price": 5.0,
+    "type": "bowler",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQaxTSt38f6sWXmQK1n68mSy7n4eIRcPsyIIAP5WgiCRu1UVYOQhTf6Yj8b_HUHI8D7LPBiHoKKvcD6D8_fyWkoQsjnqZ2y1y3rinvIpk94nKcuxKcOHnl3iXDubvDAKTZhIPoLYYWN-pwo",
+    "player_name": "Mustafiz Rahman",
+    "country": "Bangladesh",
+    "position": 8,
+    "rating": 85,
+    "price": 6.3,
+    "type": "bowler",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTReHIkNWmVMVxg5wUw8r0JwKBb2oqh2BXOLGwA83jQjDzOucOgI4cRgf4yAlNs5PxyyG8gxy8-2kZJohz595aVW1gnXoW0j92jQ92z-0O6",
+    "player_name": "Jason Holder",
+    "country": "West Indies",
+    "position": 9,
+    "rating": 91,
+    "price": 7.8,
+    "type": "all rounder",
+    "all_rounder": true
+  },
+  {
+    "players_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWuwBuwRSd8z8fcn996A11hggo6PuFmCLyf7HQl-EAekhiW8ekdHu41WeVhjf92pM8vEc6kmYn4sIHqbxLdkUYF872eUuZZ5URzR9emIrQzg",
+    "player_name": "Rahim Ali",
+    "country": "Pakistan",
+    "position": 10,
+    "rating": 88,
+    "price": 7.2,
+    "type": "batter",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfmuOyT6CwtE7x_buoYBjrpkyx8NRvAIt52jz0Tnw6iHLyRLU61LFHycJ4h94-9es5dglSZKYVtKBqLGN6MXn6Ck96jqegEGjotLjTm5jq",
+    "player_name": "Tom Latham",
+    "country": "New Zealand",
+    "position": 11,
+    "rating": 83,
+    "price": 5.5,
+    "type": "batter",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/david-miller.png",
+    "player_name": "David Miller",
+    "country": "South Africa",
+    "position": 12,
+    "rating": 87,
+    "price": 6.7,
+    "type": "batter",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeSvz2tcyIYTsM1jzvt26BVdP6-UNU7YgeQ&s",
+    "player_name": "Arjun Malhotra",
+    "country": "India",
+    "position": 13,
+    "rating": 89,
+    "price": 7.5,
+    "type": "batter",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeSvz2tcyIYTsM1jzvt26BVdP6-UNU7YgeQ&s",
+    "player_name": "Nuwan Perera",
+    "country": "Sri Lanka",
+    "position": 14,
+    "rating": 84,
+    "price": 6.0,
+    "type": "bowler",
+    "all_rounder": false
+  },
+  {
+    "players_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxuo7UToC1HjDFVCaxiBdwn1yUE--SpnBWkDsL5-NgQwkC71klVYxQ2rR49C0gStCgOGq6AzNGA2ehFb1qL4IDiJ-C4m2Tomv79q-WBoRY",
+    "player_name": "James Brook",
+    "country": "England",
+    "position": 15,
+    "rating": 86,
+    "price": 6.8,
+    "type": "batter",
+    "all_rounder": false
+  }
+]
