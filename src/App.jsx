@@ -4,6 +4,7 @@ import Header from "./component/Header";
 import Players from "./component/Players";
 import Available from "./component/Available";
 import SelectedPlayers from "./component/SelectedPlayers";
+import Footer from "./component/Footer";
 
 const App = () => {
   const [balance, setBalance] = useState(0);
@@ -16,7 +17,7 @@ const App = () => {
       .then((res) => res.json())
       .then((data) => setPlayers(data));
   }, []);
-
+  
   const handleClaimCredit = () => {
     setBalance((prev) => prev + 7);
   };
@@ -45,7 +46,8 @@ const App = () => {
 
 
   return (
-    <div className="m-10 bebas">
+    <div className="bebas">
+      <div className="m-10 bebas">
       <Navbar balance={balance} />
       <Header onClaimCredit={handleClaimCredit} />
       <div className="p-5">
@@ -59,6 +61,8 @@ const App = () => {
           <Players players={players} onSelect={handleSelectPlayer} />
         )}
       </div>
+    </div>
+    <Footer></Footer>
     </div>
   );
 };
