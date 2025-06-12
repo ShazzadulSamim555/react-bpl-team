@@ -1,6 +1,6 @@
 const Header = ({ onClaimCredit }) => {
   return (
-    <div className="text-center relative w-full mx-auto">
+    <div className="text-center relative w-full mx-auto my-20">
       <img
         className="w-full h-auto max-h-[600px] object-cover rounded-lg"
         src="/src/assets/bg-shadow.png"
