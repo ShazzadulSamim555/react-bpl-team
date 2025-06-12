@@ -1,20 +1,13 @@
-import { useState } from "react";
 import Player from "./Player";
 
-const Players = () => {
-    const [players, serPlayers] = useState([]);
-    fetch('/public/players.json')
-        .then(response => response.json())
-        .then(data => serPlayers(data))
-    
-    
-    return (
-        <div className="grid grid-cols-3 gap-5">
-            {
-                players.map((player) => <Player player={player}> </Player>)
-            }
-        </div>
-    );
+const Players = ({ players, onSelect }) => {
+  return (
+    <div className="p-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {players.map(player => (
+        <Player key={player.id} player={player} onSelect={onSelect} />
+      ))}
+    </div>
+  );
 };
 
 export default Players;
